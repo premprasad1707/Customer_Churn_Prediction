@@ -1,0 +1,6 @@
+model,accuracy,f1,roc_auc
+Gradient Boosting,0.7736,0.6189,0.8417
+Logistic Regression,0.7424,0.6191,0.8389
+LightGBM,0.785,0.609,0.8333
+Random Forest,0.7743,0.5805,0.8234
+XGBoost,0.775,0.5867,0.8142
